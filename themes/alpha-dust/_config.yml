@@ -1,0 +1,49 @@
+# Logo (Font Awesome Class)
+fa_logo: fa-cube
+
+# Header
+menu:
+  Home: /index.html
+  Archives: /archives
+  About: /about.html
+  # Tags: /tags
+  # Categories: /categories
+  # Contact: /contact.html
+
+# Default post title
+default_post_title: Untitled
+
+# Archive Date Format
+archive_date_format: MMM YYYY
+
+mathjax:
+  enable: true
+  cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname: bigballon
+
+# Google Analytics Tracking ID
+google_analytics: UA-126395678-1
+
+# Social Accounts
+# twitter_url: https://twitter.com/?lang=en
+facebook_url: https://www.facebook.com/fm.bigballon/
+# instagram_url: https://www.instagram.com/
+# dribble_url: https://dribbble.com/
+github_url: https://github.com/bigballon/
+# googleplus_url: https://plus.google.com/
+# behance_url: https://www.behance.net/
+# fivehundredpx_url: https://500px.com/
+email_url: fm.bigballon@gmail.com
+rss_url: \#
+
+# Footer About Text
+footer_about: "This theme was developed by <a href=\"https://github.com/klugjo\">Jonathan Klughertz</a>. The source code is available on Github. Create Websites. Make Magic."
+
+# Footer Copyright Line
+footer_copyright: "@fm.bigballon. All right reserved | Design & Hexo <a href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
+
